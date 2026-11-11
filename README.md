@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Sanjay Kumar N**, a Data Analyst with an MBA in Artificial Intelligence & Data Science (SRM Institute of Science and Technology, CGPA 9.3). The site presents my projects, skills, internship experience, certifications and resume in a single page.
 
-**Live site:** `https://sanjaykumarn26-53.github.io/sanjay/`
+**Live site:** `https://sanjaykumarn26-53.github.io/Sanjay-Kumar-N/`
 
 ---
 
